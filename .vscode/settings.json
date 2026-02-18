@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^npx create-expo-app@latest mobile --template blank-typescript$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

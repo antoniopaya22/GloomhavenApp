@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Gloomhaven Enemy Manager",
+    "slug": "gloomhaven-enemy-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0d0a08"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gloomhaven.enemymanager"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0d0a08"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.gloomhaven.enemymanager"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
